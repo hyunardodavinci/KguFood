@@ -113,6 +113,37 @@ margin-right: 20px;
   left: 587px;
 }
 
+
+
+
+
+
+
+
+
+footer{
+  border-top: 1px solid gray;
+  display: block;
+  margin-top: 60px;
+  height: 500px;
+}
+
+footer p{
+  font-weight: bold;
+  margin-top: 43px;
+
+}
+
+footer a{
+  text-decoration: none;
+  color: black;
+}
+
+footer div {
+  margin: 15px;
+}
+
+
 @media only screen and (max-width: 480px) {
 
 
@@ -153,27 +184,3 @@ margin-right: 20px;
 
 
 
-
-
-
-footer{
-  border-top: 1px solid gray;
-  display: block;
-  margin-top: 60px;
-  height: 500px;
-}
-
-footer p{
-  font-weight: bold;
-  margin-top: 43px;
-
-}
-
-footer a{
-  text-decoration: none;
-  color: black;
-}
-
-footer div {
-  margin: 15px;
-}
