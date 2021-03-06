@@ -113,7 +113,7 @@ margin-right: 20px;
   left: 587px;
 }
 
-@media screen and (max-width: 480px) {
+@media only screen and (max-width: 480px) {
 
 
 
